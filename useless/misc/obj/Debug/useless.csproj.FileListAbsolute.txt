@@ -1,0 +1,14 @@
+C:\Users\Ash Cool\Desktop\1\useless\useless\bin\Debug\useless.exe.config
+C:\Users\Ash Cool\Desktop\1\useless\useless\bin\Debug\useless.exe
+C:\Users\Ash Cool\Desktop\1\useless\useless\bin\Debug\useless.pdb
+C:\Users\Ash Cool\Desktop\1\useless\useless\obj\Debug\useless.csprojResolveAssemblyReference.cache
+C:\Users\Ash Cool\Desktop\1\useless\useless\obj\Debug\useless.csproj.CoreCompileInputs.cache
+C:\Users\Ash Cool\Desktop\1\useless\useless\obj\Debug\useless.exe
+C:\Users\Ash Cool\Desktop\1\useless\useless\obj\Debug\useless.pdb
+C:\Users\Ash Cool\Desktop\Новая папка\уни\Корягин\1\useless\useless\bin\Debug\useless.exe.config
+C:\Users\Ash Cool\Desktop\Новая папка\уни\Корягин\1\useless\useless\bin\Debug\useless.exe
+C:\Users\Ash Cool\Desktop\Новая папка\уни\Корягин\1\useless\useless\bin\Debug\useless.pdb
+C:\Users\Ash Cool\Desktop\Новая папка\уни\Корягин\1\useless\useless\obj\Debug\useless.csprojResolveAssemblyReference.cache
+C:\Users\Ash Cool\Desktop\Новая папка\уни\Корягин\1\useless\useless\obj\Debug\useless.csproj.CoreCompileInputs.cache
+C:\Users\Ash Cool\Desktop\Новая папка\уни\Корягин\1\useless\useless\obj\Debug\useless.exe
+C:\Users\Ash Cool\Desktop\Новая папка\уни\Корягин\1\useless\useless\obj\Debug\useless.pdb
